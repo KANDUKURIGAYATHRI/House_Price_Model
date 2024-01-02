@@ -1,1 +1,2 @@
 streamlit
+scikit-leran==1.2.2
